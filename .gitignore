@@ -1,0 +1,16 @@
+# Environment/config bestanden met wachtwoorden
+.env
+
+# Logs
+*.log
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# VS Code persoonlijke instellingen
+.vscode/
+
+# Tijdelijke bestanden
+tmp/
+temp/
