@@ -14,3 +14,6 @@ Thumbs.db
 # Tijdelijke bestanden
 tmp/
 temp/
+
+# Configs ter voorbeeld
+/config/config.php
